@@ -48,3 +48,12 @@ docker-compose up -d
 ```bash
 open http://localhost:8080
 ```
+
+## Screenshots
+
+Apache Airflow Web UI:
+<img width="1728" height="866" alt="image" src="https://github.com/user-attachments/assets/1b04810b-69df-4db0-84cc-4c001e42caf6" />
+
+Data file uploaded to AWS S3 bucket:
+<img width="3456" height="1736" alt="image" src="https://github.com/user-attachments/assets/3a145137-1a1e-4c0d-875d-fa781aa2de4f" />
+
