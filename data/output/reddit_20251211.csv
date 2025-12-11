@@ -1,0 +1,20 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1pjggt8,"What ""obscure"" sql functionalities do you find yourself using at the job?",49,60,True_Arm6904,2025-12-10 22:21:44,https://www.reddit.com/r/dataengineering/comments/1pjggt8/what_obscure_sql_functionalities_do_you_find/,False,False,False,False
+1pj0iyr,Spark uses way too much memory when shuffle happens even for small input,49,18,Aggravating_Log9704,2025-12-10 11:45:00,https://www.reddit.com/r/dataengineering/comments/1pj0iyr/spark_uses_way_too_much_memory_when_shuffle/,False,False,False,False
+1pj3w9g,All ad-hoc reports you send out in Excel should include a hidden tab with the code in it.,43,13,markwusinich_,2025-12-10 14:26:19,https://www.reddit.com/r/dataengineering/comments/1pj3w9g/all_adhoc_reports_you_send_out_in_excel_should/,False,False,False,False
+1pjfyde,Choosing data stack at my job,20,26,Wild-Ad1530,2025-12-10 22:01:27,https://www.reddit.com/r/dataengineering/comments/1pjfyde/choosing_data_stack_at_my_job/,False,False,False,False
+1pj46tr,Dataform vs dbt,16,10,dirodoro,2025-12-10 14:38:19,https://www.reddit.com/r/dataengineering/comments/1pj46tr/dataform_vs_dbt/,False,False,False,False
+1pjqkne,Am I out of my mind for thinking this?,12,30,Spooked_DE,2025-12-11 06:27:11,https://www.reddit.com/r/dataengineering/comments/1pjqkne/am_i_out_of_my_mind_for_thinking_this/,False,False,False,False
+1pjmcfz,Using higher order functions and UDFs instead of joins/explodes,10,6,echanuda,2025-12-11 02:43:38,https://www.reddit.com/r/dataengineering/comments/1pjmcfz/using_higher_order_functions_and_udfs_instead_of/,False,False,False,False
+1pjbjg9,Introducing pg_clickhouse: A Postgres extension for querying ClickHouse,2,0,saipeerdb,2025-12-10 19:11:56,https://clickhouse.com/blog/introducing-pg_clickhouse,False,False,False,False
+1pjt6ip,Data engineer vs senior data analyst,2,1,SlowBet3881,2025-12-11 09:16:31,https://www.reddit.com/r/dataengineering/comments/1pjt6ip/data_engineer_vs_senior_data_analyst/,False,False,False,False
+1pjr0k0,Terraform CDK is now also dead.,2,0,RayeesWu,2025-12-11 06:53:54,https://github.com/hashicorp/terraform-cdk?tab=readme-ov-file#sunset-notice,False,False,False,False
+1pjfaio,"Databricks vs Snowflake: Architecture, Performance, Pricing, and Use Cases Explained",2,0,jitendra_nirnejak,2025-12-10 21:34:54,https://datavidhya.com/blog/databricks-vs-snowflake/,False,False,False,False
+1pj5lwm,Recommendation for BI tool,2,3,OnionAdmirable7353,2025-12-10 15:34:46,https://www.reddit.com/r/dataengineering/comments/1pj5lwm/recommendation_for_bi_tool/,False,False,False,False
+1pj40gn,Handling nested JSON in Azure Synapse,2,1,TroebeleReistas,2025-12-10 14:31:04,https://www.reddit.com/r/dataengineering/comments/1pj40gn/handling_nested_json_in_azure_synapse/,False,False,False,False
+1pj042w,Datalakes for AI Assistant - is it feasible?,2,7,CalendarNo8792,2025-12-10 11:20:37,https://www.reddit.com/r/dataengineering/comments/1pj042w/datalakes_for_ai_assistant_is_it_feasible/,False,False,False,False
+1pjrl3w,Parquet writer with Avro Schema validation,1,1,mosquitsch,2025-12-11 07:30:02,https://www.reddit.com/r/dataengineering/comments/1pjrl3w/parquet_writer_with_avro_schema_validation/,False,False,False,False
+1pjhb0o,Kafka Spooldir vs custom script,1,3,seksou,2025-12-10 22:56:12,https://www.reddit.com/r/dataengineering/comments/1pjhb0o/kafka_spooldir_vs_custom_script/,False,False,False,False
+1pj30vk,"Side project: DE CV vs job ad checker, useful or noise?",1,0,OldWelder6255,2025-12-10 13:49:04,https://www.reddit.com/r/dataengineering/comments/1pj30vk/side_project_de_cv_vs_job_ad_checker_useful_or/,False,False,False,False
+1pjsdot,Vibe coded a SQL learning tool,0,0,Dumdama,2025-12-11 08:21:45,https://www.reddit.com/r/dataengineering/comments/1pjsdot/vibe_coded_a_sql_learning_tool/,False,False,False,False
+1pjs562,"Am I using DuckDB wrong, or it's really not that good in very low-memory settings?",0,6,ihatebeinganonymous,2025-12-11 08:06:17,https://www.reddit.com/r/dataengineering/comments/1pjs562/am_i_using_duckdb_wrong_or_its_really_not_that/,False,False,False,False

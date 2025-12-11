@@ -1,0 +1,6 @@
+logs
+etls/__pycache__
+dags/__pycache__
+utils/__pycache__
+.DS_Store
+.gitattributes
