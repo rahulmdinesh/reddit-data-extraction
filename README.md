@@ -57,3 +57,5 @@ Apache Airflow Web UI:
 Data file uploaded to AWS S3 bucket:
 <img width="3456" height="1736" alt="image" src="https://github.com/user-attachments/assets/3a145137-1a1e-4c0d-875d-fa781aa2de4f" />
 
+Querying table using AWS Athena after AWS Glue Crawler Job
+<img width="1728" height="906" alt="image" src="https://github.com/user-attachments/assets/eb1c063a-af4e-48b3-b7c7-8568137cb609" />
