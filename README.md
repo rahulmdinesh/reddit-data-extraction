@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 6. Start the containers using Docker Compose
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 7. Launch the Airflow Web UI to trigger DAG runs
